@@ -82,9 +82,7 @@ To get started with this project, follow these steps:
 
 ---
 
-## 🎉 Live Demo
 
-Check out the live version of the Titanic Survival Predictor app [here](https://ml-project-titanic-survival-prediction.onrender.com/).
 
 ---
 
@@ -99,36 +97,8 @@ Recommendations for maintaining and improving this project:
 
 ---
 
-## ❓ FAQ
 
-**Q: What is the purpose of this project?**
-A: This project predicts survival chances of Titanic passengers using machine learning, providing insights into passenger survival based on features.
 
-**Q: How can I contribute to this repository?**
-A: Refer to the [Contributing](#contributing) section for details on contributing.
-
-**Q: Where can I learn more about machine learning?**
-A: Explore [Scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html) and [Kaggle](https://www.kaggle.com/learn/overview) for additional learning resources.
-
-**Q: Can I deploy this app on cloud platforms?**
-A: Yes, you can deploy the Flask app on cloud platforms like Heroku, Render, or AWS.
-
----
-
-## 🛠️ Troubleshooting
-
-Common issues and solutions:
-
-- **Issue: Flask App Not Starting**
-  *Solution:* Ensure all dependencies are installed and the virtual environment is activated.
-
-- **Issue: Model Not Loading**
-  *Solution:* Check the model file path and verify it's not corrupted.
-
-- **Issue: Inaccurate Predictions**
-  *Solution:* Verify the input features are correctly formatted and ensure the model is properly trained.
-
----
 
 ## 🤝 Contributing
 
@@ -171,43 +141,6 @@ Explore these resources for more insights into machine learning and Flask develo
 
 ---
 
-## 💪 Challenges Faced
-
-Some challenges during development:
-
-- Handling diverse Titanic data and feature engineering.
-- Ensuring accurate survival predictions and model evaluation.
-- Deploying the application and managing dependencies effectively.
-
----
-
-## 📚 Lessons Learned
-
-Key takeaways from this project:
-
-- Practical application of machine learning for predicting survival chances.
-- Importance of thorough data preprocessing and feature selection.
-- Considerations for deploying and maintaining web applications.
-
----
-
-## 🌟 Why I Created This Repository
-
-This repository was created to demonstrate the application of machine learning for predicting Titanic survival outcomes, showcasing the entire process from data preparation to deployment.
-
----
-
-## 📝 License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
-
----
-
-## 📬 Contact
-
-- **Email:** [iconicemon01@gmail.com](mailto:iconicemon01@gmail.com)
-- **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)
-- **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)
 - **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan)
 - **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
 
